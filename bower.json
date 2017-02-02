@@ -1,0 +1,29 @@
+{
+  "name": "agent.js",
+  "description": "Browser information plugin.",
+  "keywords": [
+    "browser",
+    "agent details",
+    "pixel ratio",
+    "zoom",
+    "os"
+  ],
+  "homepage": "https://github.com/torann/agent.js",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "main": "agent.js",
+  "ignore": [
+    ".gitignore",
+    ".gitattributes",
+    "bower_components",
+    "tests"
+  ],
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Stainback <torann@gmail.com>"
+  ]
+}
